@@ -1,7 +1,0 @@
-{
-  "name": "Steam Free Games",
-  "content_in_root": false,
-  "render_readme": true,
-  "domain": "steam_free_games",
-  "country": ["fr", "en"]
-}
