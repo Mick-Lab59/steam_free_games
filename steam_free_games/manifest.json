@@ -1,9 +1,0 @@
-{
-  "domain": "steam_free_games",
-  "name": "Steam Free Games",
-  "version": "1.0.0",
-  "documentation": "https://www.home-assistant.io/integrations/",
-  "requirements": ["requests", "python-dateutil"],
-  "codeowners": ["@ton_nom_github"],
-  "iot_class": "cloud_polling"
-}
